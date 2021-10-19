@@ -35,7 +35,8 @@
               }
             ],
             "styles": [
-              "src/styles.less"
+              "src/styles.less",
+              "./node_modules/cesium/Build/Cesium/Widgets/widgets.css"
             ],
             "scripts": []
           },
